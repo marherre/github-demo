@@ -1,13 +1,13 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
+    "title": "Prueba",
+    "views": "1",
+    "published": "true",
+    "createdAt": "01022019",
     "comments": "Comment[]"
   },
   "Comment": {
-    "body": "string",
-    "post": "Post"
+    "body": "Primer comentario",
+    "post": "jalo"
   }
 }
