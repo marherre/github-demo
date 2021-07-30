@@ -17,8 +17,8 @@
   "basePath": "/v2",
   "tags": [
     {
-      "name": "pet",
-      "description": "Everything about your Pets",
+      "name": "Quote",
+      "description": "Everything about your shipping quotes",
       "externalDocs": {
         "description": "Find out more",
         "url": "http://swagger.io"
